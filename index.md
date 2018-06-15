@@ -24,4 +24,4 @@
 * [Justin Sewell](https://github.com/Starfighter36)
 * [Colby Starkel](https://github.com/ColbyStarkel)
 * [Orlando Trejo](https://github.com/xXOrlandoTrejoXx)
-* [Wu Xiszhe](https://github.com/XinzheWu3000)
+* [Wu Xinzhe](https://github.com/XinzheWu3000)
